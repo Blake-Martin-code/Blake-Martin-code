@@ -20,7 +20,7 @@ Feel free to pull and help improve **Companion**. Currently it is fully written 
 
 1. Utilize langchains `create_agent` and `middleware` instead of relying on `create_deep_agents` from `deepagents`
 2. Pydantic Type and modularize the system to be more extensible
-3. Improve CLI. I have mostly vibecoded the UI and would love to take it to the next level
+3. Improve CLI. I have mostly vibecoded the cli and would love to take it to the next level
 4. Create a beautiful UI
 5. Dockerize
 <!--
