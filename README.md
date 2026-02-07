@@ -1,4 +1,6 @@
-## Hi there 👋
+# Blake Martin - ML/AI Engineer and Agentic Engineer
+
+Welcome to my github. I am a ML/AI Engineer with 4+ years of experience. I specialize in building and deploying Agentic Systems to classified environments. On the side I build many ai applications, most of which are private repos.
 
 <!--
 **Blake-Martin-code/Blake-Martin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
