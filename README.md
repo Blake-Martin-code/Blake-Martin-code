@@ -4,7 +4,7 @@ Welcome to my github. I am a ML/AI Engineer with 4+ years of experience. I speci
 
 ## Open Source Projects
 
-### (Companion)[https://github.com/Blake-Martin-code/companion]
+### [Companion](https://github.com/Blake-Martin-code/companion)
 
 **Companion** is an advanced AI agent system designed to assist with deep research, analysis, and report writing. It operates as a persistent companion that learns and stores information using a structured file system.
 
