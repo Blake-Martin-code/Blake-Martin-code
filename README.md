@@ -1,6 +1,6 @@
 # Blake Martin - ML/AI Engineer and Agentic Engineer
 
-Welcome to my github. I am a ML/AI Engineer with 4+ years of experience. I specialize in building and deploying Agentic Systems to classified environments which leverage advance tools and customer databases (vector databases, object storage, postgres, mongo, elastic, kabana) to make sense of data and assist analysts with automating their workflows. On the side I build many ai applications, most of which are private repos.
+I am a ML/AI Engineer with 4+ years of experience. I specialize in building and deploying Agentic Systems to classified environments which leverage advance tools and customer databases (vector databases, object storage, postgres, mongo, elastic, kabana) to make sense of data and assist analysts with automating their workflows. On the side I build many ai applications, most of which are private repos.
 
 ## Open Source Projects
 
